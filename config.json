@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "",
-		"password": "",
+		"email": "Orogi Marques",
+		"password": "Tusho II",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -24,7 +24,7 @@
 	"owner": ["https://www.facebook.com/unfollowthisuser"],
 	"whiteListMode": {
 		"enable": false,
-		"whiteListIds": ["100045644423035"],
+		"whiteListIds": ["100060576558442"],
 		"notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
 	},
 	"whiteListModeThread": {
